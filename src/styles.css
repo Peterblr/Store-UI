@@ -1,1 +1,25 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.my-container {
+    max-width: 1500px;
+}
+
+.my-shadow {
+    box-shadow: 0px 0px 0.75rem rgba(7, 41, 233, 0.3);
+}
+
+.my-shadow:hover {
+    box-shadow: 0px 0px 1.5rem rgba(214, 7, 233, 0.452); 
+}
+
+.my-rounded-corner {
+    border-radius: 1rem;
+    box-shadow: 0px 0px 0.75rem rgba(7, 41, 233, 0.3);
+}
+
+.modal-backdrop.fade.show {
+    z-index: 19;
+}
