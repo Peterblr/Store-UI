@@ -1,4 +1,5 @@
 # StoreUi
+Created with Angular 14 and Bootstrap 5
 
 ![image](https://github.com/Peterblr/store-ui/blob/master/src/screenshots/1.PNG)
 
